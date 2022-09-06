@@ -220,3 +220,11 @@ pre {
 .hidden {
 	display: none;
 }
+
+.english {
+	width: 55%;
+}
+
+.russian {
+	width: 95%;
+}
